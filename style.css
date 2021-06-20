@@ -3,7 +3,7 @@
 }
 
 body {
-	background-image: radial-gradient(circle at 4.62% 11.92%, #a3ded8 0, #a1dedd 3.57%, #a0dde2 7.14%, #a1dde7 10.71%, #a2dcec 14.29%, #a5dbef 17.86%, #a8daf3 21.43%, #add9f5 25%, #b2d7f7 28.57%, #b8d6f8 32.14%, #bfd4f8 35.71%, #c6d2f8 39.29%, #cdd1f7 42.86%, #d3cff5 46.43%, #dacdf2 50%, #e0cbef 53.57%, #e6caeb 57.14%, #ebc8e6 60.71%, #f0c7e2 64.29%, #f4c7dd 67.86%, #f7c6d7 71.43%, #f9c6d2 75%, #fac6cd 78.57%, #fbc6c7 82.14%, #fbc7c2 85.71%, #fac7be 89.29%, #f8c9b9 92.86%, #f5cab6 96.43%, #f2cbb3 100%);
+	background-image: linear-gradient(180deg, #a5ded5 0, #a2deda 3.33%, #a1dedf 6.67%, #a0dde4 10%, #a1dde9 13.33%, #a3dced 16.67%, #a5dbf0 20%, #a9daf3 23.33%, #aed9f6 26.67%, #b3d7f7 30%, #b9d6f8 33.33%, #c0d4f8 36.67%, #c6d2f8 40%, #cdd0f7 43.33%, #d4cff5 46.67%, #dacdf2 50%, #e0cbef 53.33%, #e6caeb 56.67%, #ebc9e7 60%, #efc7e2 63.33%, #f3c7dd 66.67%, #f6c6d8 70%, #f8c6d3 73.33%, #fac6ce 76.67%, #fbc6c9 80%, #fbc6c4 83.33%, #fac7bf 86.67%, #f8c8bb 90%, #f6c9b7 93.33%, #f3cbb4 96.67%, #f0ccb1 100%);
 	display: flex;
 	align-items: center;
 	justify-content: center;
